@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-silva/)](https://www.linkedin.com/in/rodrigo-goncalves-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigog.sistemas@gmail.com-4169E1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigog.sistemas@gmail.com)](mailto:rodrigog.sistemas@gmail.com)
 
-- 👩‍💻 Tech Leader e Desenvolvedor
+- 👨‍💻 Tech Leader e Desenvolvedor
 - 🎓 Bacharel em Sistemas de Informação
 - 🎓 Pós-Graduado em Desenvolvimento Java
-- 💡Sempre buscando aprender!
+- 💡 Sempre aprendendo e em constante evolução!🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="rodrigo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
